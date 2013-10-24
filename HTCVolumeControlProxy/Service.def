@@ -1,0 +1,11 @@
+LIBRARY	"HTCVolumeControlProxy"
+;DESCRIPTION  'HTCVolumeControlProxy Windows CE Dynamic Link Library'
+EXPORTS
+   VOL_Close
+   VOL_Deinit
+   VOL_Init
+   VOL_IOControl
+   VOL_Open
+   VOL_Read
+   VOL_Seek
+   VOL_Write
